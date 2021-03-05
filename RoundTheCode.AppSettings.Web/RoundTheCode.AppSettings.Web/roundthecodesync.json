@@ -1,0 +1,7 @@
+{
+  "RoundTheCodeSync": {
+    "Title": "This is the sync",
+    "Interval": "0:30:00",
+    "ConcurrentThreads": 12
+  }
+}
